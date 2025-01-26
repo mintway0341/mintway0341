@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs18004&layout=compact"><br><br>
 
 ## Education
-- Korea University
-- Gyeonggi Science High School
+- Korea University (고려대학교)
+- Gyeonggi Science High School for the Gifted (과학영재학교 경기과학고등학교)
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
