@@ -2,6 +2,7 @@
 - [Motion: fix to ignore press event when button is disabled](https://github.com/motiondivision/motion/pull/3056)
 - [TanStack Query: fix queryOptions with initialData to work on useSuspenseQueries](https://github.com/TanStack/query/pull/8658)
 - [TanStack Query: make error to be shown when using queryOptions with initialData and skipToken in queryFn inside useSuspenseQueries](https://github.com/TanStack/query/pull/8665)
+- [es-hangul: modify numberToHangulMixed and numberToHangul to handle decimals, negatives, and infinity](https://github.com/toss/es-hangul/pull/323)
 ## Education
 - Korea University (고려대학교)
 - Gyeonggi Science High School for the Gifted (과학영재학교 경기과학고등학교)
